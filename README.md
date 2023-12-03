@@ -1,5 +1,7 @@
-# ตัวอย่างโค้ด Chatbot ที่ตอบกลับแบบ if-else
-
+# ตัวอย่างการใช้งาน Chatbot 
+## line Chatbot สำหรับ วิเคราะห์ text sentiment analysis AsianGames
+![image](https://imgur.com/EJnZhQt.jpg)
+![image](https://imgur.com/COQHyvT.jpg)
 ## ติดตั้งก่อน (กรณีไม่ได้รันในdocker)
 ```
 pip install -r requirements.txt
