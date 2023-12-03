@@ -1,0 +1,1 @@
+Channel_access_token="GkER+x+jSUGTyBCFRlUO1Py5VwXQdmmSIdjt3IHk5FrBCBCnx+nHkLSs6o+EX91c03TZY34rrUzPZTNWjlFZf43CehEyg/x123rfR1cpmMcXgn44SjP6cksF9YJ5ip6aCWl/u0PHLle/8SVJHk5VmQdB04t89/1O/w1cDnyilFU="
